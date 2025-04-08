@@ -1,6 +1,11 @@
 # Modern Data Warehouse and Analytics Project
 My personal portfolio project to demonstrate the development of a modern data warehouse with SQL Server, including ETL processes, data modelling, and analytics. The medallion architecture is the chosen architecture for the data warehouse solution to enable analytical reporting and informed decision-making.
 
+---
+## 🚀 Project Requirements
+
+### Buidling the data Warehouse (Data Engineering)
+
 #### Project Objective
 Develop a modern data warehouse using SQL server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
