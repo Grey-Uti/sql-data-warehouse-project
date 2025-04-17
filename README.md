@@ -28,3 +28,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+#### 🌟 About Me
+Hi there! My name is **Oghenegare Precious Uti**, and my preferred name is **Gare Uti**. I am a Data pro with specialties in Data analytics and Data engineering.
+
